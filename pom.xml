@@ -27,7 +27,7 @@
 		<font.awesome.version>4.7.0</font.awesome.version>
 
 		<!-- LINK FOR SONARQUBE CONFIGURATIONS -->
-		<sonar.host.url>http://sonarqube:9000</sonar.host.url>
+		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.exclusions>**bootstrap**</sonar.exclusions>
 		
 	</properties>
